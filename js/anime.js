@@ -1,7 +1,7 @@
 // Api urls
 
-const animeapi = "https://api.anime-dex.workers.dev/anime/";
-const recommendationsapi = "https://api.anime-dex.workers.dev/recommendations/";
+const animeapi = "https://api.secretdrive.workers.dev/anime/";
+const recommendationsapi = "https://api.secretdrive.workers.dev/recommendations/";
 
 // Usefull functions
 

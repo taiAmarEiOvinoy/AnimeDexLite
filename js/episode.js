@@ -1,6 +1,6 @@
-const animeapi = "https://api.anime-dex.workers.dev/anime/";
-const episodeapi = "https://api.anime-dex.workers.dev/episode/";
-const dlapi = "https://api.anime-dex.workers.dev/download/";
+const animeapi = "https://api.secretdrive.workers.dev/anime/";
+const episodeapi = "https://api.secretdrive.workers.dev/episode/";
+const dlapi = "https://api.secretdrive.workers.dev/download/";
 
 // Usefull functions
 
